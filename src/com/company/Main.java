@@ -6,8 +6,11 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
+
+
         // задание 7
-        /*
+
+
 Scanner scanner = new Scanner(System.in);
         System.out.println("Введите размер массива");
 int n = scanner.nextInt();
@@ -20,9 +23,10 @@ int[] array = new int[n];
             System.out.println(array[i]);
         }
 
-         */
+
  // задание 8
-        /*
+
+
  Scanner scanner = new Scanner(System.in);
         System.out.println("Введите количество строк");
         int n = scanner.nextInt();
@@ -42,16 +46,21 @@ int[] array = new int[n];
             System.out.println();
         }
 
-         */
+
         // задание 9
-        /*
+
+
         int summ = 0;
         for(String arg : args) {
             int conv = Integer.parseInt(arg);
             summ += + conv;
         }
         System.out.println(summ);
-         */
+
+
+        //задание 10
+
+
         Scanner scanner = new Scanner(System.in);
         System.out.println("Введите количество строк ");
         int n = scanner.nextInt();
